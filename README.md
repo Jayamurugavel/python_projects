@@ -5,6 +5,8 @@ Repository with a few projects to practice Python.
 
 Project to create a password with random characters - combination of letters, numbers and special characters - with the length based on user's input.
 
+![pw](https://user-images.githubusercontent.com/58880353/206420952-0b2e4c9c-704e-4b57-9041-a6f05b844925.JPG)
+
 2. QR Code Generator
 
 Project to create a QR code based on the user's input.
