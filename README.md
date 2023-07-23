@@ -1,5 +1,5 @@
 # Python Projects
-Repository with a few projects to practice Python.
+Repository with a few projects that I have been doing to practice Python.
 
 1. Password Generator
 
